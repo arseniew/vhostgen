@@ -1,6 +1,6 @@
 {
     "name": "vhostgen",
-    "version": "0.0.0",
+    "version": "0.1.0",
     "description": "Apache2 virtualhost entry generator",
     "main": "vhostgen",
     "scripts": {
@@ -20,8 +20,7 @@
     "license": "MIT",
     "dependencies": {
         "jsonfile": "~2.0.0",
-        "commander": "~2.5.0",
-        "maker": "~0.1.11"
+        "commander": "~2.5.0"
     },
     "bugs": {
         "url": "https://github.com/arseniew/vhostgen/issues"
